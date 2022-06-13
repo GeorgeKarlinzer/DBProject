@@ -1,7 +1,7 @@
 USE [u_nstaron]
 GO
 
-/****** Object:  StoredProcedure [dbo].[AddWorkshop]    Script Date: 13.06.2022 22:40:12 ******/
+/****** Object:  StoredProcedure [dbo].[AddWorkshop]    Script Date: 13.06.2022 23:55:02 ******/
 SET ANSI_NULLS ON
 GO
 
