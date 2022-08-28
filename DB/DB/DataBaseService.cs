@@ -11,7 +11,7 @@ namespace DB
 {
     internal sealed class DataBaseService
     {
-        private readonly string connectionString = @"Server=dbmanage.lab.ii.agh.edu.pl;Database=u_nstaron;User Id=;Password=;";
+        private readonly string connectionString = @"Server=*****;Database=*****;User Id=*****;Password=*****;";
         private SqlConnection conn;
 
         public void OpenConnection()
