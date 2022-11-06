@@ -1,4 +1,4 @@
-### System zarządzania konferencjami
+# System zarządzania konferencjami
 
 ## Opis
 Problemu Projekt dotyczy systemu wspomagania działalności firmy organizującej konferencję:
